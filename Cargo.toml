@@ -1,0 +1,9 @@
+[package]
+name = "test_parser_denys"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "test parser by Denys"
+
+[dependencies]
+peg = "0.8.4"
